@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @D3OXY
 - 👀 I’m interested in Web Designing.
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning Next.JS
 - 💞️ I’m looking to collaborate on Minecraft Server Development
 - 📫 How to reach me,
       Mail me on- deoxy@deoxy.tech
