@@ -51,17 +51,14 @@
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
-
 <p align="center">
-
-<img src="https://gh-stats.deoxy.dev/api?username=d3oxy&show_icons=true&theme=transparent&count_private=true" />
-
+<img src="https://gh-stats.deoxy.dev/api/top-langs/?username=d3oxy&theme=transparent&layout=compact" />
 </p>
-
 <p align="center">
-
-<img src="https://gh-stats.deoxy.dev/api/top-langs/?username=d3oxy&theme=transparent" />
-
+<img src="https://gh-stats.deoxy.dev/api?username=d3oxy&show_icons=true&theme=transparent&count_private=true" />
+</p>
+<p align="center">
+<img src="https://gh-stats.deoxy.dev/api/wakatime?username=D3OXY&layout=compact&theme=transparent" />
 </p>
 
 
@@ -77,11 +74,6 @@
 <!--END_SECTION:activity-->
 </details>
 
-
-<p align="center">Made with ❤️</p>
-
-<p align="center">
-        <img src="./assets/Bottom.svg" alt="bottom" />
 </p>
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
@@ -104,3 +96,8 @@
 <h4 align="center">
   <a href="https://github.com/d3oxy?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+
+<p align="center">Made with ❤️</p>
+
+<p align="center">
+        <img src="./assets/Bottom.svg" alt="bottom" />
