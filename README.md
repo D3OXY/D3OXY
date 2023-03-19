@@ -12,4 +12,6 @@
 
 <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCECWUVsdYzRotv62PtTWugA?style=for-the-badge">
 
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/d3oxyxd?color=%231DA1F2&logo=Twitter&logoColor=%231DA1F2&style=for-the-badge">
+
 </p>
