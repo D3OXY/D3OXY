@@ -1,11 +1,8 @@
 <p align="center">
-
 <img src="./assets/logo-group.svg" >
-
 </p>
 
 <p align="center">
-
 <a href="https://deoxy.dev">
 
 <img alt="Website" src="https://img.shields.io/website?label=deoxy.dev&style=for-the-badge&url=https%3A%2F%2Fdeoxy.dev">
@@ -29,5 +26,8 @@
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/d3oxyxd?color=%231DA1F2&logo=Twitter&logoColor=%231DA1F2&style=for-the-badge">
 
 </a>
+</p>
 
+<p align="center">
+    A Tech Enthusiast, who plays stupid Video Games and codes useless programs.
 </p>
