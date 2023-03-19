@@ -112,7 +112,7 @@ JavaScript   9 mins          █████████████████
   <a href="https://github.com/d3oxy?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
-<p align="center">Made with ❤️</p>
+<p align="center">Made with ❤️ by <a href="https://deoxy.dev">D3OXY</a> </p>
 
 <p align="center">
         <img src="./assets/Bottom.svg" alt="bottom" />
