@@ -41,12 +41,9 @@
  - 📝 [Resume](https://deoxy.dev/resume)
  ---
 
-<details>
-<summary>Spotify Playing 🎧</summary>
+### Spotify Playing 🎧
 
  [![Spotify](https://novatorem-virid-nu.vercel.app/api/spotify)](https://open.spotify.com/user/dq98ieeh8phhqkw9i861xyff6)
-
-</details>
 
 ## 📊 Stats
 
