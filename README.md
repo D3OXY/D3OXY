@@ -61,6 +61,9 @@
 <img src="https://gh-stats.deoxy.dev/api/wakatime?username=D3OXY&layout=compact&theme=transparent" />
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 <details>
 <summary>⚡ Recent GitHub Activity</summary>
