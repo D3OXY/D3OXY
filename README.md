@@ -47,9 +47,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=d3oxy&show_icons=true&theme=radical" alt="d3oxy's github stats" />
 </p>
 
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#1079](https://github.com/PrismarineJS/node-minecraft-protocol/issues/1079) in [PrismarineJS/node-minecraft-protocol](https://github.com/PrismarineJS/node-minecraft-protocol)
 2. ❗️ Opened issue [#1079](https://github.com/PrismarineJS/node-minecraft-protocol/issues/1079) in [PrismarineJS/node-minecraft-protocol](https://github.com/PrismarineJS/node-minecraft-protocol)
 3. 🗣 Commented on [#7005](https://github.com/firebase/firebase-js-sdk/issues/7005) in [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk)
 4. 💪 Opened PR [#519](https://github.com/oguzhaninan/Stacer/pull/519) in [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer)
 <!--END_SECTION:activity-->
+</details>
