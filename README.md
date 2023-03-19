@@ -57,9 +57,6 @@
 <p align="center">
 <img src="https://gh-stats.deoxy.dev/api?username=d3oxy&show_icons=true&theme=transparent&count_private=true" />
 </p>
-<p align="center">
-<img src="https://gh-stats.deoxy.dev/api/wakatime?username=D3OXY&layout=compact&theme=transparent" />
-</p>
 
 <!--START_SECTION:waka-->
 
