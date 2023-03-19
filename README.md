@@ -102,8 +102,10 @@ JavaScript   9 mins          █████████████████
 <a href="https://github.com/d3oxy/Discord-Rich-Presence">
 <img src="https://gh-stats.deoxy.dev/api/pin/?username=d3oxy&repo=Discord-Rich-Presence&show_owner=true&theme=transparent" />
 </a>
-<a href="https://github.com/d3oxy/gh-stats">
+<a href="https://github.com/d3oxy/deoxy.tech">
 <img src="https://gh-stats.deoxy.dev/api/pin/?username=d3oxy&repo=gh-stats&show_owner=true&theme=transparent" />
+<a href="https://github.com/d3oxy/gh-stats">
+<img src="https://gh-stats.deoxy.dev/api/pin/?username=d3oxy&repo=deoxy.tech&show_owner=true&theme=transparent" />
 </a>
 
 </p>
