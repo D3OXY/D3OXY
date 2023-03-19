@@ -45,18 +45,22 @@
 
  [![Spotify](https://novatorem-virid-nu.vercel.app/api/spotify)](https://open.spotify.com/user/dq98ieeh8phhqkw9i861xyff6)
 
- <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
+
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=d3oxy&show_icons=true&theme=radical" alt="d3oxy's github stats" />
-</p>
+
+<img src="https://gh-stats.deoxy.dev/api?username=d3oxy&show_icons=true&theme=transparent&count_private=true" />
+
+<img src="https://gh-stats.deoxy.dev/api/top-langs/?username=d3oxy&theme=transparent" />
+
 
 <details>
-<summary>:zap: Recent GitHub Activity</summary>
+<summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
 1. ❗️ Closed issue [#1079](https://github.com/PrismarineJS/node-minecraft-protocol/issues/1079) in [PrismarineJS/node-minecraft-protocol](https://github.com/PrismarineJS/node-minecraft-protocol)
@@ -73,3 +77,12 @@
 <p align="center">
         <img src="./assets/Bottom.svg" alt="bottom" />
 </p>
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+
+[![Readme Card](https://gh-stats.deoxy.dev/api/pin/?username=d3oxy&repo=gh-stats)](https://deoxy.dev)
+
+<h4 align="center">
+  <a href="https://github.com/d3oxy?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
