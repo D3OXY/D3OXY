@@ -90,13 +90,13 @@
 <p align="center">
 
 <a href="https://github.com/d3oxy/gh-stats">
-<img src="https://gh-stats.deoxy.dev/api/pin/?username=d3oxy&repo=gh-stats&show_owner=true" />
+<img src="https://gh-stats.deoxy.dev/api/pin/?username=d3oxy&repo=gh-stats&show_owner=true&theme=transparent" />
 </a>
 <a href="https://github.com/d3oxy/gh-stats">
-<img src="https://gh-stats.deoxy.dev/api/pin/?username=d3oxy&repo=gh-stats&show_owner=true" />
+<img src="https://gh-stats.deoxy.dev/api/pin/?username=d3oxy&repo=gh-stats&show_owner=true&theme=transparent" />
 </a>
 <a href="https://github.com/d3oxy/gh-stats">
-<img src="https://gh-stats.deoxy.dev/api/pin/?username=d3oxy&repo=gh-stats&show_owner=true" />
+<img src="https://gh-stats.deoxy.dev/api/pin/?username=d3oxy&repo=gh-stats&show_owner=true&theme=transparent" />
 </a>
 
 </p>
