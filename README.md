@@ -28,15 +28,6 @@
 </a>
 </p>
 
-<p align="center" >
-    <bold>
-        A Tech Enthusiast, who plays stupid Video Games and codes useless programs.
-    </bold>
-</p>
-
-<style>
-    bold {
-        font-weight: bold;
-        color: red;
-    }
-</style>
+<h6 align='center'>
+    A Tech Enthusiast, who plays stupid Video Games and codes useless programs.
+</h6>
