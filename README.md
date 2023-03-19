@@ -31,3 +31,20 @@
 <h4 align='center'>
     A Tech Enthusiast, who plays stupid Video Games and codes useless programs.
 </h4>
+
+ - 🔭 I’m currently working on React Projects.
+ - 👯 I’m looking to collaborate on Web/Minecraft Server Development.
+ - 🌱 I’m currently learning C++
+ - 💬 Ask me about JS, TS, Minecraft Dev, Discord Dev, Web Dev.
+ - ⚡ Fun fact i am Lazy AF
+ - How to reach me: [Twitter](https://twitter.com/d3oxyxd) or [Discord](https://deoxy.dev/socials/discord)
+ - 📝 [Resume](https://deoxy.dev/resume)
+ ---
+
+## 📊 Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=d3oxy&show_icons=true&theme=radical" alt="d3oxy's github stats" />
+</p>
+
+<!--START_SECTION:activity-->
