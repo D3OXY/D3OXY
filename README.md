@@ -45,7 +45,11 @@
 
  [![Spotify](https://novatorem-virid-nu.vercel.app/api/spotify)](https://open.spotify.com/user/dq98ieeh8phhqkw9i861xyff6)
 
-## 📊 Stats
+ <hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
+
+<h2 align="center">⚡ Stats ⚡</h2>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=d3oxy&show_icons=true&theme=radical" alt="d3oxy's github stats" />
