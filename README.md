@@ -28,6 +28,6 @@
 </a>
 </p>
 
-<h6 align='center'>
+<h4 align='center'>
     A Tech Enthusiast, who plays stupid Video Games and codes useless programs.
-</h6>
+</h4>
