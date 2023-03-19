@@ -72,10 +72,10 @@ JavaScript   9 mins          █████████████████
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#1079](https://github.com/PrismarineJS/node-minecraft-protocol/issues/1079) in [PrismarineJS/node-minecraft-protocol](https://github.com/PrismarineJS/node-minecraft-protocol)
-2. ❗️ Opened issue [#1079](https://github.com/PrismarineJS/node-minecraft-protocol/issues/1079) in [PrismarineJS/node-minecraft-protocol](https://github.com/PrismarineJS/node-minecraft-protocol)
-3. 🗣 Commented on [#7005](https://github.com/firebase/firebase-js-sdk/issues/7005) in [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk)
-4. 💪 Opened PR [#519](https://github.com/oguzhaninan/Stacer/pull/519) in [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer)
+1. 💪 Opened PR [#5103](https://github.com/is-a-dev/register/pull/5103) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. ❗️ Closed issue [#1079](https://github.com/PrismarineJS/node-minecraft-protocol/issues/1079) in [PrismarineJS/node-minecraft-protocol](https://github.com/PrismarineJS/node-minecraft-protocol)
+3. ❗️ Opened issue [#1079](https://github.com/PrismarineJS/node-minecraft-protocol/issues/1079) in [PrismarineJS/node-minecraft-protocol](https://github.com/PrismarineJS/node-minecraft-protocol)
+4. 🗣 Commented on [#7005](https://github.com/firebase/firebase-js-sdk/issues/7005) in [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk)
 
 <!--END_SECTION:activity-->
 </details>
