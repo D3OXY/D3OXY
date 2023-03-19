@@ -62,3 +62,10 @@
 
 <!--END_SECTION:activity-->
 </details>
+
+
+<p align="center">Made with ❤️</p>
+
+<p align="center">
+        <img src="./assets/Bottom.svg" alt="bottom" />
+</p>
