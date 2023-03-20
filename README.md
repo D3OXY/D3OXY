@@ -52,12 +52,10 @@
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<p align="center">
-<img src="https://gh-stats.deoxy.dev/api/top-langs/?username=d3oxy&theme=transparent&layout=compact" />
-</p>
-<p align="center">
-<img src="https://gh-stats.deoxy.dev/api?username=d3oxy&show_icons=true&theme=transparent&count_private=true" />
-</p>
+<div align="center">  
+  <img width="49%" height="195px" src="https://gh-stats.deoxy.dev/api/top-langs/?username=d3oxy&theme=transparent&layout=compact" /> 
+  <img width="49%" height="195px" src="https://gh-stats.deoxy.dev/api?username=d3oxy&show_icons=true&theme=transparent&count_private=true" />
+</div>
 
 <!--START_SECTION:waka-->
 
@@ -95,14 +93,14 @@ Other        3 hrs 41 mins   ██████████▒░░░░░░
 <a href="https://github.com/d3oxy/deoxy.dev">
 <img src="https://gh-stats.deoxy.dev/api/pin/?username=d3oxy&repo=deoxy.dev&show_owner=true&theme=transparent" />
 </a>
+<a href="https://github.com/d3oxy/censor-badwords">
+<img src="https://gh-stats.deoxy.dev/api/pin/?username=d3oxy&repo=censor-badwords&show_owner=true&theme=transparent" />
+</a>
 <a href="https://github.com/d3oxy/animalfarm-vite">
 <img src="https://gh-stats.deoxy.dev/api/pin/?username=d3oxy&repo=animalfarm-vite&show_owner=true&theme=transparent" />
 </a>
 <a href="https://github.com/d3oxy/ChargedNodes">
 <img src="https://gh-stats.deoxy.dev/api/pin/?username=d3oxy&repo=ChargedNodes&show_owner=true&theme=transparent" />
-</a>
-<a href="https://github.com/d3oxy/censor-badwords">
-<img src="https://gh-stats.deoxy.dev/api/pin/?username=d3oxy&repo=censor-badwords&show_owner=true&theme=transparent" />
 </a>
 <a href="https://github.com/d3oxy/Discord-Rich-Presence">
 <img src="https://gh-stats.deoxy.dev/api/pin/?username=d3oxy&repo=Discord-Rich-Presence&show_owner=true&theme=transparent" />
