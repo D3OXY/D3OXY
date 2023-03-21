@@ -57,18 +57,6 @@
   <img width="49%" height="195px" src="https://gh-stats.deoxy.dev/api?username=d3oxy&show_icons=true&theme=transparent&count_private=true" />
 </div>
 
-<!--START_SECTION:waka-->
-
-```text
-From: 16 March 2023 - To: 20 March 2023
-
-Total Time: 13 hrs 8 mins
-
-Other        7 hrs 49 mins   ███████████████░░░░░░░░░░   59.54 %
-```
-
-<!--END_SECTION:waka-->
-
 <img
   src="https://github.com/D3OXY/D3OXY/blob/main/images/stat.svg"
   alt="Alternative Text"
