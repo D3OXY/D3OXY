@@ -28,9 +28,9 @@
 </a>
 </p>
 
-<h4 align='center'>
+<h3 align='center'>
     A Tech Enthusiast, who plays stupid Video Games and codes useless programs.
-</h4>
+</h3>
 
  - 🔭 I’m currently working on React Projects.
  - 👯 I’m looking to collaborate on Web/Minecraft Server Development.
