@@ -70,6 +70,11 @@ Other        3 hrs 41 mins   ██████████▒░░░░░░
 
 <!--END_SECTION:waka-->
 
+<img
+  src="https://github.com/D3OXY/D3OXY/blob/main/images/stat.svg"
+  alt="Alternative Text"
+/>
+
 
 <details>
 <summary>⚡ Recent GitHub Activity</summary>
