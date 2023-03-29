@@ -67,10 +67,10 @@
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#5103](https://github.com/is-a-dev/register/pull/5103) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. ❗️ Closed issue [#1079](https://github.com/PrismarineJS/node-minecraft-protocol/issues/1079) in [PrismarineJS/node-minecraft-protocol](https://github.com/PrismarineJS/node-minecraft-protocol)
-3. ❗️ Opened issue [#1079](https://github.com/PrismarineJS/node-minecraft-protocol/issues/1079) in [PrismarineJS/node-minecraft-protocol](https://github.com/PrismarineJS/node-minecraft-protocol)
-4. 🗣 Commented on [#7005](https://github.com/firebase/firebase-js-sdk/issues/7005) in [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk)
+1. 💪 Opened PR [#13](https://github.com/AlexzanderFlores/WOKCommands-v2/pull/13) in [AlexzanderFlores/WOKCommands-v2](https://github.com/AlexzanderFlores/WOKCommands-v2)
+2. 💪 Opened PR [#5103](https://github.com/is-a-dev/register/pull/5103) in [is-a-dev/register](https://github.com/is-a-dev/register)
+3. ❗️ Closed issue [#1079](https://github.com/PrismarineJS/node-minecraft-protocol/issues/1079) in [PrismarineJS/node-minecraft-protocol](https://github.com/PrismarineJS/node-minecraft-protocol)
+4. ❗️ Opened issue [#1079](https://github.com/PrismarineJS/node-minecraft-protocol/issues/1079) in [PrismarineJS/node-minecraft-protocol](https://github.com/PrismarineJS/node-minecraft-protocol)
 
 <!--END_SECTION:activity-->
 </details>
