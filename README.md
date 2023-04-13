@@ -67,9 +67,9 @@
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2921](https://github.com/louislam/uptime-kuma/issues/2921) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
-2. 💪 Opened PR [#13](https://github.com/AlexzanderFlores/WOKCommands-v2/pull/13) in [AlexzanderFlores/WOKCommands-v2](https://github.com/AlexzanderFlores/WOKCommands-v2)
-3. 💪 Opened PR [#5103](https://github.com/is-a-dev/register/pull/5103) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. 🎉 Merged PR [#1](https://github.com/D3OXY/djs-commands/pull/1) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
+2. 🗣 Commented on [#2921](https://github.com/louislam/uptime-kuma/issues/2921) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+3. 💪 Opened PR [#13](https://github.com/AlexzanderFlores/WOKCommands-v2/pull/13) in [AlexzanderFlores/WOKCommands-v2](https://github.com/AlexzanderFlores/WOKCommands-v2)
 4. ❗️ Opened issue [#1079](https://github.com/PrismarineJS/node-minecraft-protocol/issues/1079) in [PrismarineJS/node-minecraft-protocol](https://github.com/PrismarineJS/node-minecraft-protocol)
 
 <!--END_SECTION:activity-->
