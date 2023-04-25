@@ -67,10 +67,10 @@
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#2](https://github.com/D3OXY/trip-valley/pull/2) in [D3OXY/trip-valley](https://github.com/D3OXY/trip-valley)
-2. 🎉 Merged PR [#1](https://github.com/D3OXY/trip-valley/pull/1) in [D3OXY/trip-valley](https://github.com/D3OXY/trip-valley)
-3. 🎉 Merged PR [#1](https://github.com/D3OXY/djs-commands/pull/1) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
-4. 🗣 Commented on [#2921](https://github.com/louislam/uptime-kuma/issues/2921) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+1. ❗️ Closed issue [#2360](https://github.com/pocketbase/pocketbase/issues/2360) in [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
+2. ❗️ Opened issue [#2360](https://github.com/pocketbase/pocketbase/issues/2360) in [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
+3. ❗️ Opened issue [#2359](https://github.com/pocketbase/pocketbase/issues/2359) in [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
+4. ❌ Closed PR [#2](https://github.com/D3OXY/trip-valley/pull/2) in [D3OXY/trip-valley](https://github.com/D3OXY/trip-valley)
 
 <!--END_SECTION:activity-->
 </details>
