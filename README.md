@@ -67,10 +67,10 @@
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#2360](https://github.com/pocketbase/pocketbase/issues/2360) in [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
-2. ❗️ Opened issue [#2360](https://github.com/pocketbase/pocketbase/issues/2360) in [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
-3. ❗️ Opened issue [#2359](https://github.com/pocketbase/pocketbase/issues/2359) in [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
-4. ❌ Closed PR [#2](https://github.com/D3OXY/trip-valley/pull/2) in [D3OXY/trip-valley](https://github.com/D3OXY/trip-valley)
+1. ❗️ Opened issue [#2536](https://github.com/pocketbase/pocketbase/issues/2536) in [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
+2. ❗️ Closed issue [#2360](https://github.com/pocketbase/pocketbase/issues/2360) in [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
+3. ❗️ Opened issue [#2360](https://github.com/pocketbase/pocketbase/issues/2360) in [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
+4. ❗️ Opened issue [#2359](https://github.com/pocketbase/pocketbase/issues/2359) in [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
 
 <!--END_SECTION:activity-->
 </details>
