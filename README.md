@@ -32,7 +32,7 @@
     A Tech Enthusiast, who plays stupid Video Games and codes useless programs.
 </h3>
 
- - 🔭 I’m currently working on React Projects.
+ - 🔭 I’m currently working on not screwing things up.
  - 👯 I’m looking to collaborate on Web/Minecraft Server Development.
  - 🌱 I’m currently learning C++
  - 💬 Ask me about JS, TS, Minecraft Dev, Discord Dev, Web Dev.
