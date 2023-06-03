@@ -85,14 +85,14 @@
 <a href="https://github.com/d3oxy/deoxy.dev">
 <img src="https://gh-stats.deoxy.dev/api/pin/?username=d3oxy&repo=deoxy.dev&show_owner=true&theme=transparent" />
 </a>
+<a href="https://github.com/D3OXY/djs-commands">
+<img src="https://gh-stats.deoxy.dev/api/pin/?username=d3oxy&repo=djs-commands&show_owner=true&theme=transparent" />
+</a>
 <a href="https://github.com/d3oxy/censor-badwords">
 <img src="https://gh-stats.deoxy.dev/api/pin/?username=d3oxy&repo=censor-badwords&show_owner=true&theme=transparent" />
 </a>
 <a href="https://github.com/d3oxy/animalfarm-vite">
 <img src="https://gh-stats.deoxy.dev/api/pin/?username=d3oxy&repo=animalfarm-vite&show_owner=true&theme=transparent" />
-</a>
-<a href="https://github.com/d3oxy/ChargedNodes">
-<img src="https://gh-stats.deoxy.dev/api/pin/?username=d3oxy&repo=ChargedNodes&show_owner=true&theme=transparent" />
 </a>
 <a href="https://github.com/d3oxy/Discord-Rich-Presence">
 <img src="https://gh-stats.deoxy.dev/api/pin/?username=d3oxy&repo=Discord-Rich-Presence&show_owner=true&theme=transparent" />
