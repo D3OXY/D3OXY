@@ -67,10 +67,10 @@
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2](https://github.com/calumk/editorjs-nested-checklist/pull/2) in [calumk/editorjs-nested-checklist](https://github.com/calumk/editorjs-nested-checklist)
-2. 💪 Opened PR [#1439](https://github.com/lucide-icons/lucide/pull/1439) in [lucide-icons/lucide](https://github.com/lucide-icons/lucide)
-3. ❗ Opened issue [#2536](https://github.com/pocketbase/pocketbase/issues/2536) in [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
-4. 🔒 Closed issue [#2360](https://github.com/pocketbase/pocketbase/issues/2360) in [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
+1. 💪 Opened PR [#1456](https://github.com/lucide-icons/lucide/pull/1456) in [lucide-icons/lucide](https://github.com/lucide-icons/lucide)
+2. 💪 Opened PR [#2](https://github.com/calumk/editorjs-nested-checklist/pull/2) in [calumk/editorjs-nested-checklist](https://github.com/calumk/editorjs-nested-checklist)
+3. 💪 Opened PR [#1439](https://github.com/lucide-icons/lucide/pull/1439) in [lucide-icons/lucide](https://github.com/lucide-icons/lucide)
+4. ❗ Opened issue [#2536](https://github.com/pocketbase/pocketbase/issues/2536) in [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
 
 <!--END_SECTION:activity-->
 </details>
