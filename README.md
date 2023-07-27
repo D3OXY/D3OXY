@@ -67,10 +67,10 @@
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1456](https://github.com/lucide-icons/lucide/pull/1456) in [lucide-icons/lucide](https://github.com/lucide-icons/lucide)
-2. 💪 Opened PR [#2](https://github.com/calumk/editorjs-nested-checklist/pull/2) in [calumk/editorjs-nested-checklist](https://github.com/calumk/editorjs-nested-checklist)
-3. 💪 Opened PR [#1439](https://github.com/lucide-icons/lucide/pull/1439) in [lucide-icons/lucide](https://github.com/lucide-icons/lucide)
-4. ❗ Opened issue [#2536](https://github.com/pocketbase/pocketbase/issues/2536) in [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
+1. 🎉 Merged PR [#20](https://github.com/D3OXY/djs-commands/pull/20) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
+2. 🎉 Merged PR [#19](https://github.com/D3OXY/djs-commands/pull/19) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
+3. 💪 Opened PR [#19](https://github.com/D3OXY/djs-commands/pull/19) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
+4. ❌ Closed PR [#18](https://github.com/D3OXY/djs-commands/pull/18) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
 
 <!--END_SECTION:activity-->
 </details>
