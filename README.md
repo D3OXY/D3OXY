@@ -69,10 +69,10 @@
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#26](https://github.com/D3OXY/djs-commands/pull/26) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
-2. 🎉 Merged PR [#25](https://github.com/D3OXY/djs-commands/pull/25) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
-3. 🎉 Merged PR [#24](https://github.com/D3OXY/djs-commands/pull/24) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
-4. 🎉 Merged PR [#23](https://github.com/D3OXY/djs-commands/pull/23) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
+1. 🎉 Merged PR [#29](https://github.com/D3OXY/djs-commands/pull/29) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
+2. 🎉 Merged PR [#28](https://github.com/D3OXY/djs-commands/pull/28) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
+3. 🎉 Merged PR [#27](https://github.com/D3OXY/djs-commands/pull/27) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
+4. 🎉 Merged PR [#26](https://github.com/D3OXY/djs-commands/pull/26) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
 
 <!--END_SECTION:activity-->
 </details>
