@@ -70,9 +70,9 @@
 <!--START_SECTION:activity-->
 
 1. 🚀 Published release [V1](https://github.com/D3OXY/pterodactyl-power/releases/tag/V1) in [D3OXY/pterodactyl-power](https://github.com/D3OXY/pterodactyl-power)
-2. 🎉 Merged PR [#33](https://github.com/D3OXY/djs-commands/pull/33) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
-3. 🎉 Merged PR [#30](https://github.com/D3OXY/djs-commands/pull/30) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
-4. 🎉 Merged PR [#29](https://github.com/D3OXY/djs-commands/pull/29) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
+2. 🚀 Published release [V1](https://github.com/D3OXY/pterodactyl-power/releases/tag/V1) in [D3OXY/pterodactyl-power](https://github.com/D3OXY/pterodactyl-power)
+3. 🚀 Published release [V1](https://github.com/D3OXY/pterodactyl-power/releases/tag/V1) in [D3OXY/pterodactyl-power](https://github.com/D3OXY/pterodactyl-power)
+4. 🚀 Published release [V1](https://github.com/D3OXY/pterodactyl-power/releases/tag/V1) in [D3OXY/pterodactyl-power](https://github.com/D3OXY/pterodactyl-power)
 
 <!--END_SECTION:activity-->
 </details>
