@@ -32,18 +32,19 @@
     A Tech Enthusiast, who plays stupid Video Games and codes useless programs.
 </h3>
 
- - 🔭 I’m currently working on not screwing things up.
- - 👯 I’m looking to collaborate on Web/Minecraft Server Development.
- - 🌱 I’m currently learning C++ and Astro.
- - 💬 Ask me about JS, TS, Minecraft Dev, Discord Dev, React, NextJS (Anything Web).
- - ⚡ Fun fact I'm a professional overthinker.
- - How to reach me: [Twitter](https://twitter.com/d3oxyxd) or [Discord](https://deoxy.dev/links?redirect=discord)
- - 📝 [Resume](https://deoxy.dev/links?redirect=resume)
- ---
+-   🔭 I’m currently working on not screwing things up.
+-   👯 I’m looking to collaborate on Web/Minecraft Server Development.
+-   🌱 I’m currently learning C++ and Astro.
+-   💬 Ask me about JS, TS, Minecraft Dev, Discord Dev, React, NextJS (Anything Web).
+-   ⚡ Fun fact I'm a professional overthinker.
+-   How to reach me: [Twitter](https://twitter.com/d3oxyxd) or [Discord](https://deoxy.dev/links?redirect=discord)
+-   📝 [Resume](https://deoxy.dev/links?redirect=resume)
 
-### Spotify Playing 🎧
+---
 
- [![Spotify](https://novatorem-virid-nu.vercel.app/api/spotify)](https://open.spotify.com/user/dq98ieeh8phhqkw9i861xyff6)
+### Currently I'm
+
+Working on it!
 
 <h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 <br>
@@ -64,7 +65,6 @@
   alt="Alternative Text"
 />
 
-
 <details>
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
@@ -84,11 +84,14 @@
 
 <p align="center">
 
-<a href="https://github.com/D3OXY/old.deoxy.dev">
-<img src="https://gh-stats.deoxy.dev/api/pin/?username=d3oxy&repo=old.deoxy.dev&show_owner=true&theme=transparent" />
-</a>
 <a href="https://github.com/D3OXY/djs-commands">
 <img src="https://gh-stats.deoxy.dev/api/pin/?username=d3oxy&repo=djs-commands&show_owner=true&theme=transparent" />
+</a>
+<a href="https://github.com/D3OXY/pterodactyl-power">
+<img src="https://gh-stats.deoxy.dev/api/pin/?username=d3oxy&repo=pterodactyl-power&show_owner=true&theme=transparent" />
+</a>
+<a href="https://github.com/D3OXY/old.deoxy.dev">
+<img src="https://gh-stats.deoxy.dev/api/pin/?username=d3oxy&repo=old.deoxy.dev&show_owner=true&theme=transparent" />
 </a>
 <a href="https://github.com/d3oxy/censor-badwords">
 <img src="https://gh-stats.deoxy.dev/api/pin/?username=d3oxy&repo=censor-badwords&show_owner=true&theme=transparent" />
