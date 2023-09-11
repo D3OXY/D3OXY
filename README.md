@@ -49,8 +49,8 @@ Working on it!
 <h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 <br>
 <p align="center">
-  <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=ts,html,react,astro,tailwind,vscode,nodejs,linux,postgres,mongodb,js,css,nextjs,svelte,git,figma,deno,bash,mysql,redis&theme=dark&perline=10" />
+  <a href="https://deoxy.dev">
+<img src="https://skill-icons.deoxy.dev/icons?i=ts,html,react,astro,tailwind,vscode,nodejs,linux,postgres,mongodb,js,css,nextjs,svelte,git,figma,bun,bash,mysql,redis&theme=dark&perline=10" />
   </a>
 </p>
 
