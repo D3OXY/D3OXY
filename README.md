@@ -69,10 +69,10 @@ Working on it!
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#545](https://github.com/tandpfun/skill-icons/pull/545) in [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
-2. 🚀 Published release [V1](https://github.com/D3OXY/pterodactyl-power/releases/tag/V1) in [D3OXY/pterodactyl-power](https://github.com/D3OXY/pterodactyl-power)
-3. 🚀 Published release [V1](https://github.com/D3OXY/pterodactyl-power/releases/tag/V1) in [D3OXY/pterodactyl-power](https://github.com/D3OXY/pterodactyl-power)
-4. 🚀 Published release [V1](https://github.com/D3OXY/pterodactyl-power/releases/tag/V1) in [D3OXY/pterodactyl-power](https://github.com/D3OXY/pterodactyl-power)
+1. 🎉 Merged PR [#41](https://github.com/D3OXY/djs-commands/pull/41) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
+2. 🎉 Merged PR [#40](https://github.com/D3OXY/djs-commands/pull/40) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
+3. 💪 Opened PR [#40](https://github.com/D3OXY/djs-commands/pull/40) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
+4. 💪 Opened PR [#545](https://github.com/tandpfun/skill-icons/pull/545) in [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
 
 <!--END_SECTION:activity-->
 </details>
