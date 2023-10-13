@@ -69,10 +69,10 @@ Working on it!
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#44](https://github.com/D3OXY/djs-commands/pull/44) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
-2. 🎉 Merged PR [#43](https://github.com/D3OXY/djs-commands/pull/43) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
-3. 🎉 Merged PR [#41](https://github.com/D3OXY/djs-commands/pull/41) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
-4. 🎉 Merged PR [#40](https://github.com/D3OXY/djs-commands/pull/40) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
+1. 🗣 Commented on [#1727](https://github.com/shadcn-ui/ui/issues/1727#issuecomment-1761198928) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+2. 🎉 Merged PR [#44](https://github.com/D3OXY/djs-commands/pull/44) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
+3. 🎉 Merged PR [#43](https://github.com/D3OXY/djs-commands/pull/43) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
+4. 🎉 Merged PR [#41](https://github.com/D3OXY/djs-commands/pull/41) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
 
 <!--END_SECTION:activity-->
 </details>
