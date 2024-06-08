@@ -69,9 +69,9 @@ Working on it!
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#327](https://github.com/bvaughn/react-resizable-panels/pull/327) in [bvaughn/react-resizable-panels](https://github.com/bvaughn/react-resizable-panels)
-2. 🎉 Merged PR [#44](https://github.com/D3OXY/djs-commands/pull/44) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
-3. 🎉 Merged PR [#43](https://github.com/D3OXY/djs-commands/pull/43) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
+1. ❌ Closed PR [#519](https://github.com/oguzhaninan/Stacer/pull/519) in [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer)
+2. ❌ Closed PR [#545](https://github.com/tandpfun/skill-icons/pull/545) in [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
+3. 💪 Opened PR [#327](https://github.com/bvaughn/react-resizable-panels/pull/327) in [bvaughn/react-resizable-panels](https://github.com/bvaughn/react-resizable-panels)
 4. 🎉 Merged PR [#41](https://github.com/D3OXY/djs-commands/pull/41) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
 
 <!--END_SECTION:activity-->
