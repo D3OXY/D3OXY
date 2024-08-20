@@ -34,7 +34,7 @@
 
 -   🔭 I’m currently working on not screwing things up.
 -   👯 I’m looking to collaborate on Web/Minecraft Server Development.
--   🌱 I’m currently learning C++ and Astro.
+-   🌱 I’m currently learning C++ and Motion Designing.
 -   💬 Ask me about JS, TS, Minecraft Dev, Discord Dev, React, NextJS (Anything Web).
 -   ⚡ Fun fact I'm a professional overthinker.
 -   How to reach me: [Twitter](https://twitter.com/d3oxyxd) or [Discord](https://deoxy.dev/links?redirect=discord)
