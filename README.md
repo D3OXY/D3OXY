@@ -3,25 +3,25 @@
 </p>
 
 <p align="center">
-<a href="https://deoxy.dev">
+<a href="https://deoxy.dev/links?redirect=website&from=github-readme">
 
 <img alt="Website" src="https://img.shields.io/website?label=deoxy.dev&style=for-the-badge&url=https%3A%2F%2Fdeoxy.dev">
 
 </a>
 
-<a href="https://deoxy.dev/socials/discord">
+<a href="https://deoxy.dev/links?redirect=discord&from=github-readme">
 
 <img alt="Discord" src="https://img.shields.io/discord/756751516169142323?style=for-the-badge">
 
 </a>
 
-<a href="https://www.youtube.com/channel/UCECWUVsdYzRotv62PtTWugA">
+<a href="https://deoxy.dev/links?redirect=youtube&from=github-readme">
 
 <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCECWUVsdYzRotv62PtTWugA?style=for-the-badge">
 
 </a>
 
-<a href="https://twitter.com/d3oxyxd">
+<a href="https://deoxy.dev/links?redirect=twitter&from=github-readme">
 
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/d3oxyxd?color=%231DA1F2&logo=Twitter&logoColor=%231DA1F2&style=for-the-badge">
 
@@ -37,8 +37,8 @@
 -   🌱 I’m currently learning C++ and Motion Designing.
 -   💬 Ask me about JS, TS, Minecraft Dev, Discord Dev, React, NextJS (Anything Web).
 -   ⚡ Fun fact I'm a professional overthinker.
--   How to reach me: [Twitter](https://twitter.com/d3oxyxd) or [Discord](https://deoxy.dev/links?redirect=discord)
--   📝 [Resume](https://deoxy.dev/links?redirect=resume)
+-   How to reach me: [Twitter](https://deoxy.dev/links?redirect=twitter&from=github-readme) or [Discord](https://deoxy.dev/links?redirect=discord&from=github-readme)
+-   📝 [Resume](https://deoxy.dev/links?redirect=resume&from=github-readme)
 
 ---
 
@@ -49,7 +49,7 @@ Working on it!
 <h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 <br>
 <p align="center">
-  <a href="https://deoxy.dev">
+  <a href="https://deoxy.dev/links?redirect=website&from=github-readme">
 <img src="https://skill-icons.deoxy.dev/icons?i=ts,html,react,astro,tailwind,vscode,nodejs,linux,postgres,mongodb,js,css,nextjs,svelte,git,figma,bun,bash,mysql,redis&theme=dark&perline=10" />
   </a>
 </p>
