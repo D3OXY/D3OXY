@@ -69,7 +69,7 @@ Working on it!
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [V1.0](https://github.com/D3OXY/cashflow/releases/tag/V1) in [D3OXY/cashflow](https://github.com/D3OXY/cashflow)
+1. ❗ Opened issue [#1414](https://github.com/better-auth/better-auth/issues/1414) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
 2. 💪 Opened PR [#17](https://github.com/openstatusHQ/time-picker/pull/17) in [openstatusHQ/time-picker](https://github.com/openstatusHQ/time-picker)
 3. ❌ Closed PR [#519](https://github.com/oguzhaninan/Stacer/pull/519) in [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer)
 4. ❌ Closed PR [#545](https://github.com/tandpfun/skill-icons/pull/545) in [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
