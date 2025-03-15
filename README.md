@@ -69,7 +69,7 @@ Working on it!
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#1414](https://github.com/better-auth/better-auth/issues/1414) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+1. ❗ Opened issue [#49](https://github.com/Fr4nKB/Glyphify/issues/49) in [Fr4nKB/Glyphify](https://github.com/Fr4nKB/Glyphify)
 2. 💪 Opened PR [#17](https://github.com/openstatusHQ/time-picker/pull/17) in [openstatusHQ/time-picker](https://github.com/openstatusHQ/time-picker)
 3. ❌ Closed PR [#519](https://github.com/oguzhaninan/Stacer/pull/519) in [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer)
 4. ❌ Closed PR [#545](https://github.com/tandpfun/skill-icons/pull/545) in [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
