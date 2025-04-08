@@ -69,9 +69,9 @@ Working on it!
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#3291](https://github.com/neondatabase/website/pull/3291) in [neondatabase/website](https://github.com/neondatabase/website)
-2. ❗ Opened issue [#49](https://github.com/Fr4nKB/Glyphify/issues/49) in [Fr4nKB/Glyphify](https://github.com/Fr4nKB/Glyphify)
-3. ❌ Closed PR [#519](https://github.com/oguzhaninan/Stacer/pull/519) in [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer)
+1. 🗣 Commented on [#3291](https://github.com/neondatabase/website/pull/3291#issuecomment-2784165210) in [neondatabase/website](https://github.com/neondatabase/website)
+2. 💪 Opened PR [#3291](https://github.com/neondatabase/website/pull/3291) in [neondatabase/website](https://github.com/neondatabase/website)
+3. ❗ Opened issue [#49](https://github.com/Fr4nKB/Glyphify/issues/49) in [Fr4nKB/Glyphify](https://github.com/Fr4nKB/Glyphify)
 4. ❌ Closed PR [#545](https://github.com/tandpfun/skill-icons/pull/545) in [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
 
 <!--END_SECTION:activity-->
