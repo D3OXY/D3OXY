@@ -69,8 +69,8 @@ Working on it!
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#159](https://github.com/hangwin/mcp-chrome/issues/159) in [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome)
-2. 💪 Opened PR [#455](https://github.com/upstash/docs/pull/455) in [upstash/docs](https://github.com/upstash/docs)
+1. ❗ Opened issue [#941](https://github.com/microsoft/playwright-mcp/issues/941) in [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
+2. ❗ Opened issue [#159](https://github.com/hangwin/mcp-chrome/issues/159) in [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome)
 3. ❗ Opened issue [#49](https://github.com/Fr4nKB/Glyphify/issues/49) in [Fr4nKB/Glyphify](https://github.com/Fr4nKB/Glyphify)
 4. ❌ Closed PR [#545](https://github.com/tandpfun/skill-icons/pull/545) in [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
 
