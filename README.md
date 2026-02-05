@@ -69,10 +69,10 @@ Working on it!
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#22](https://github.com/get-convex/r2/pull/22) in [get-convex/r2](https://github.com/get-convex/r2)
-2. 🗣 Commented on [#1](https://github.com/D3OXY/Cloak/issues/1#issuecomment-3818457536) in [D3OXY/Cloak](https://github.com/D3OXY/Cloak)
-3. 💪 Opened PR [#22](https://github.com/get-convex/r2/pull/22) in [get-convex/r2](https://github.com/get-convex/r2)
-4. ❌ Closed PR [#545](https://github.com/tandpfun/skill-icons/pull/545) in [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
+1. 💪 Opened PR [#162](https://github.com/21st-dev/1code/pull/162) in [21st-dev/1code](https://github.com/21st-dev/1code)
+2. 🎉 Merged PR [#22](https://github.com/get-convex/r2/pull/22) in [get-convex/r2](https://github.com/get-convex/r2)
+3. 🗣 Commented on [#1](https://github.com/D3OXY/Cloak/issues/1#issuecomment-3818457536) in [D3OXY/Cloak](https://github.com/D3OXY/Cloak)
+4. 💪 Opened PR [#22](https://github.com/get-convex/r2/pull/22) in [get-convex/r2](https://github.com/get-convex/r2)
 
 <!--END_SECTION:activity-->
 </details>
