@@ -69,10 +69,10 @@ Working on it!
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#162](https://github.com/21st-dev/1code/pull/162#issuecomment-3864052088) in [21st-dev/1code](https://github.com/21st-dev/1code)
-2. 💪 Opened PR [#162](https://github.com/21st-dev/1code/pull/162) in [21st-dev/1code](https://github.com/21st-dev/1code)
-3. 🎉 Merged PR [#22](https://github.com/get-convex/r2/pull/22) in [get-convex/r2](https://github.com/get-convex/r2)
-4. 🗣 Commented on [#1](https://github.com/D3OXY/Cloak/issues/1#issuecomment-3818457536) in [D3OXY/Cloak](https://github.com/D3OXY/Cloak)
+1. 🗣 Commented on [#162](https://github.com/21st-dev/1code/pull/162#issuecomment-3864061693) in [21st-dev/1code](https://github.com/21st-dev/1code)
+2. 🗣 Commented on [#162](https://github.com/21st-dev/1code/pull/162#issuecomment-3864052088) in [21st-dev/1code](https://github.com/21st-dev/1code)
+3. 💪 Opened PR [#162](https://github.com/21st-dev/1code/pull/162) in [21st-dev/1code](https://github.com/21st-dev/1code)
+4. 🎉 Merged PR [#22](https://github.com/get-convex/r2/pull/22) in [get-convex/r2](https://github.com/get-convex/r2)
 
 <!--END_SECTION:activity-->
 </details>
