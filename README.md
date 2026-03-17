@@ -69,10 +69,10 @@ Working on it!
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#26248](https://github.com/raycast/extensions/pull/26248#issuecomment-4044595073) in [raycast/extensions](https://github.com/raycast/extensions)
-2. 🗣 Commented on [#26248](https://github.com/raycast/extensions/pull/26248#issuecomment-4044416507) in [raycast/extensions](https://github.com/raycast/extensions)
-3. 🗣 Commented on [#26248](https://github.com/raycast/extensions/pull/26248#issuecomment-4044395631) in [raycast/extensions](https://github.com/raycast/extensions)
-4. 💪 Opened PR [#26248](https://github.com/raycast/extensions/pull/26248) in [raycast/extensions](https://github.com/raycast/extensions)
+1. ❌ Closed PR [#26248](https://github.com/raycast/extensions/pull/26248) in [raycast/extensions](https://github.com/raycast/extensions)
+2. 🗣 Commented on [#26248](https://github.com/raycast/extensions/pull/26248#issuecomment-4072545895) in [raycast/extensions](https://github.com/raycast/extensions)
+3. 🗣 Commented on [#26248](https://github.com/raycast/extensions/pull/26248#issuecomment-4044595073) in [raycast/extensions](https://github.com/raycast/extensions)
+4. 🗣 Commented on [#26248](https://github.com/raycast/extensions/pull/26248#issuecomment-4044416507) in [raycast/extensions](https://github.com/raycast/extensions)
 
 <!--END_SECTION:activity-->
 </details>
