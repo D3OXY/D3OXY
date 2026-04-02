@@ -69,10 +69,10 @@ Working on it!
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1684](https://github.com/pingdotgg/t3code/pull/1684) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-2. ❌ Closed PR [#26248](https://github.com/raycast/extensions/pull/26248) in [raycast/extensions](https://github.com/raycast/extensions)
-3. 🗣 Commented on [#26248](https://github.com/raycast/extensions/pull/26248#issuecomment-4072545895) in [raycast/extensions](https://github.com/raycast/extensions)
-4. 🗣 Commented on [#26248](https://github.com/raycast/extensions/pull/26248#issuecomment-4044595073) in [raycast/extensions](https://github.com/raycast/extensions)
+1. 🎉 Merged PR [#1684](https://github.com/pingdotgg/t3code/pull/1684) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+2. 💪 Opened PR [#1684](https://github.com/pingdotgg/t3code/pull/1684) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+3. ❌ Closed PR [#26248](https://github.com/raycast/extensions/pull/26248) in [raycast/extensions](https://github.com/raycast/extensions)
+4. 🗣 Commented on [#26248](https://github.com/raycast/extensions/pull/26248#issuecomment-4072545895) in [raycast/extensions](https://github.com/raycast/extensions)
 
 <!--END_SECTION:activity-->
 </details>
