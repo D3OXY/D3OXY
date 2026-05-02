@@ -69,10 +69,10 @@ Working on it!
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2472](https://github.com/pingdotgg/t3code/pull/2472) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-2. 🗣 Commented on [#2373](https://github.com/pingdotgg/t3code/pull/2373#issuecomment-4334276123) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-3. 💪 Opened PR [#2373](https://github.com/pingdotgg/t3code/pull/2373) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-4. ❌ Closed PR [#1809](https://github.com/pingdotgg/t3code/pull/1809) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+1. 🎉 Merged PR [#2472](https://github.com/pingdotgg/t3code/pull/2472) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+2. 💪 Opened PR [#2472](https://github.com/pingdotgg/t3code/pull/2472) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+3. 🗣 Commented on [#2373](https://github.com/pingdotgg/t3code/pull/2373#issuecomment-4334276123) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+4. 💪 Opened PR [#2373](https://github.com/pingdotgg/t3code/pull/2373) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
 
 <!--END_SECTION:activity-->
 </details>
