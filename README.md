@@ -69,10 +69,10 @@ Working on it!
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#92](https://github.com/D3OXY/djs-commands/pull/92) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
-2. 🔒 Closed issue [#68](https://github.com/D3OXY/djs-commands/issues/68) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
-3. 🎉 Merged PR [#90](https://github.com/D3OXY/djs-commands/pull/90) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
-4. 💪 Opened PR [#90](https://github.com/D3OXY/djs-commands/pull/90) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
+1. 🔒 Closed issue [#67](https://github.com/D3OXY/djs-commands/issues/67) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
+2. 🎉 Merged PR [#97](https://github.com/D3OXY/djs-commands/pull/97) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
+3. 💪 Opened PR [#97](https://github.com/D3OXY/djs-commands/pull/97) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
+4. ❗ Opened issue [#96](https://github.com/D3OXY/djs-commands/issues/96) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
 
 <!--END_SECTION:activity-->
 </details>
