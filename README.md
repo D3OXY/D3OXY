@@ -69,10 +69,10 @@ Working on it!
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2745](https://github.com/pingdotgg/t3code/pull/2745) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-2. ❌ Closed PR [#1](https://github.com/D3OXY/treeport/pull/1) in [D3OXY/treeport](https://github.com/D3OXY/treeport)
-3. 💪 Opened PR [#1](https://github.com/D3OXY/treeport/pull/1) in [D3OXY/treeport](https://github.com/D3OXY/treeport)
-4. 💪 Opened PR [#2745](https://github.com/pingdotgg/t3code/pull/2745) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+1. 💪 Opened PR [#140](https://github.com/D3OXY/djs-commands/pull/140) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
+2. ℹ️ Labeled issue [#139](https://github.com/D3OXY/djs-commands/issues/139) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
+3. ❗ Opened issue [#139](https://github.com/D3OXY/djs-commands/issues/139) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
+4. 🎉 Merged PR [#2745](https://github.com/pingdotgg/t3code/pull/2745) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
 
 <!--END_SECTION:activity-->
 </details>
