@@ -87,23 +87,18 @@ Working on it!
 <a href="https://github.com/D3OXY/djs-commands">
 <img src="https://gh-stats.deoxy.dev/api/pin/?username=d3oxy&repo=djs-commands&show_owner=true&theme=transparent" />
 </a>
+<a href="https://github.com/D3OXY/treeport">
+<img src="https://gh-stats.deoxy.dev/api/pin/?username=d3oxy&repo=treeport&show_owner=true&theme=transparent" />
+</a>
+<a href="https://github.com/d3oxy/lunex">
+<img src="https://gh-stats.deoxy.dev/api/pin/?username=d3oxy&repo=lunex&show_owner=true&theme=transparent" />
+</a>
 <a href="https://github.com/D3OXY/pterodactyl-power">
 <img src="https://gh-stats.deoxy.dev/api/pin/?username=d3oxy&repo=pterodactyl-power&show_owner=true&theme=transparent" />
 </a>
-<a href="https://github.com/D3OXY/old.deoxy.dev">
-<img src="https://gh-stats.deoxy.dev/api/pin/?username=d3oxy&repo=old.deoxy.dev&show_owner=true&theme=transparent" />
+<a href="https://github.com/d3oxy/cloak">
+<img src="https://gh-stats.deoxy.dev/api/pin/?username=d3oxy&repo=cloak&show_owner=true&theme=transparent" />
 </a>
-<a href="https://github.com/d3oxy/censor-badwords">
-<img src="https://gh-stats.deoxy.dev/api/pin/?username=d3oxy&repo=censor-badwords&show_owner=true&theme=transparent" />
-</a>
-<a href="https://github.com/d3oxy/animalfarm-vite">
-<img src="https://gh-stats.deoxy.dev/api/pin/?username=d3oxy&repo=animalfarm-vite&show_owner=true&theme=transparent" />
-</a>
-<a href="https://github.com/d3oxy/Discord-Rich-Presence">
-<img src="https://gh-stats.deoxy.dev/api/pin/?username=d3oxy&repo=Discord-Rich-Presence&show_owner=true&theme=transparent" />
-</a>
-<a href="https://github.com/d3oxy/deoxy.tech">
-<img src="https://gh-stats.deoxy.dev/api/pin/?username=d3oxy&repo=gh-stats&show_owner=true&theme=transparent" />
 <a href="https://github.com/d3oxy/gh-stats">
 <img src="https://gh-stats.deoxy.dev/api/pin/?username=d3oxy&repo=deoxy.tech&show_owner=true&theme=transparent" />
 </a>
