@@ -69,10 +69,10 @@ Working on it!
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3107](https://github.com/pingdotgg/t3code/pull/3107#issuecomment-4766309462) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-2. ❌ Closed PR [#151](https://github.com/D3OXY/djs-commands/pull/151) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
-3. ❌ Closed PR [#3107](https://github.com/pingdotgg/t3code/pull/3107) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-4. 🎉 Merged PR [#3114](https://github.com/pingdotgg/t3code/pull/3114) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+1. 🗣 Commented on [#3107](https://github.com/pingdotgg/t3code/pull/3107#issuecomment-4766862337) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+2. 🗣 Commented on [#3107](https://github.com/pingdotgg/t3code/pull/3107#issuecomment-4766309462) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+3. ❌ Closed PR [#151](https://github.com/D3OXY/djs-commands/pull/151) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
+4. ❌ Closed PR [#3107](https://github.com/pingdotgg/t3code/pull/3107) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
 
 <!--END_SECTION:activity-->
 </details>
