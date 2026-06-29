@@ -69,10 +69,10 @@ Working on it!
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#152](https://github.com/D3OXY/djs-commands/pull/152) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
-2. ❌ Closed PR [#150](https://github.com/D3OXY/djs-commands/pull/150) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
-3. 🗣 Commented on [#3107](https://github.com/pingdotgg/t3code/pull/3107#issuecomment-4766862337) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-4. 🗣 Commented on [#3107](https://github.com/pingdotgg/t3code/pull/3107#issuecomment-4766309462) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+1. 🗣 Commented on [#156](https://github.com/D3OXY/djs-commands/pull/156#issuecomment-4835393936) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
+2. 🗣 Commented on [#158](https://github.com/D3OXY/djs-commands/pull/158#issuecomment-4835393944) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
+3. 🗣 Commented on [#159](https://github.com/D3OXY/djs-commands/pull/159#issuecomment-4835393897) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
+4. ❌ Closed PR [#159](https://github.com/D3OXY/djs-commands/pull/159) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
 
 <!--END_SECTION:activity-->
 </details>
