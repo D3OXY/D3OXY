@@ -69,10 +69,10 @@ Working on it!
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#163](https://github.com/mattpocock/skills/issues/163#issuecomment-4932333656) in [mattpocock/skills](https://github.com/mattpocock/skills)
-2. 🗣 Commented on [#156](https://github.com/D3OXY/djs-commands/pull/156#issuecomment-4835393936) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
-3. 🗣 Commented on [#158](https://github.com/D3OXY/djs-commands/pull/158#issuecomment-4835393944) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
-4. 🗣 Commented on [#159](https://github.com/D3OXY/djs-commands/pull/159#issuecomment-4835393897) in [D3OXY/djs-commands](https://github.com/D3OXY/djs-commands)
+1. 🗣 Commented on [#9142](https://github.com/clerk/javascript/issues/9142#issuecomment-4953301650) in [clerk/javascript](https://github.com/clerk/javascript)
+2. 💪 Opened PR [#9143](https://github.com/clerk/javascript/pull/9143) in [clerk/javascript](https://github.com/clerk/javascript)
+3. ❗ Opened issue [#9142](https://github.com/clerk/javascript/issues/9142) in [clerk/javascript](https://github.com/clerk/javascript)
+4. 🗣 Commented on [#163](https://github.com/mattpocock/skills/issues/163#issuecomment-4932333656) in [mattpocock/skills](https://github.com/mattpocock/skills)
 
 <!--END_SECTION:activity-->
 </details>
