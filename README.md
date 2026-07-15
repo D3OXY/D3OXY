@@ -69,10 +69,10 @@ Working on it!
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#9142](https://github.com/clerk/javascript/issues/9142#issuecomment-4953301650) in [clerk/javascript](https://github.com/clerk/javascript)
-2. 💪 Opened PR [#9143](https://github.com/clerk/javascript/pull/9143) in [clerk/javascript](https://github.com/clerk/javascript)
-3. ❗ Opened issue [#9142](https://github.com/clerk/javascript/issues/9142) in [clerk/javascript](https://github.com/clerk/javascript)
-4. 🗣 Commented on [#163](https://github.com/mattpocock/skills/issues/163#issuecomment-4932333656) in [mattpocock/skills](https://github.com/mattpocock/skills)
+1. 💪 Opened PR [#4019](https://github.com/pingdotgg/t3code/pull/4019) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+2. 🗣 Commented on [#9142](https://github.com/clerk/javascript/issues/9142#issuecomment-4953301650) in [clerk/javascript](https://github.com/clerk/javascript)
+3. 💪 Opened PR [#9143](https://github.com/clerk/javascript/pull/9143) in [clerk/javascript](https://github.com/clerk/javascript)
+4. ❗ Opened issue [#9142](https://github.com/clerk/javascript/issues/9142) in [clerk/javascript](https://github.com/clerk/javascript)
 
 <!--END_SECTION:activity-->
 </details>
