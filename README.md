@@ -69,10 +69,10 @@ Working on it!
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#4031](https://github.com/pingdotgg/t3code/pull/4031) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-2. 🎉 Merged PR [#4019](https://github.com/pingdotgg/t3code/pull/4019) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-3. 💪 Opened PR [#4019](https://github.com/pingdotgg/t3code/pull/4019) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-4. 🗣 Commented on [#9142](https://github.com/clerk/javascript/issues/9142#issuecomment-4953301650) in [clerk/javascript](https://github.com/clerk/javascript)
+1. 💪 Opened PR [#4049](https://github.com/pingdotgg/t3code/pull/4049) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+2. 💪 Opened PR [#4031](https://github.com/pingdotgg/t3code/pull/4031) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+3. 🎉 Merged PR [#4019](https://github.com/pingdotgg/t3code/pull/4019) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+4. 💪 Opened PR [#4019](https://github.com/pingdotgg/t3code/pull/4019) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
 
 <!--END_SECTION:activity-->
 </details>
