@@ -69,10 +69,10 @@ Working on it!
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#13](https://github.com/SunkenInTime/t3-themes/pull/13) in [SunkenInTime/t3-themes](https://github.com/SunkenInTime/t3-themes)
-2. 💪 Opened PR [#13](https://github.com/SunkenInTime/t3-themes/pull/13) in [SunkenInTime/t3-themes](https://github.com/SunkenInTime/t3-themes)
-3. 💪 Opened PR [#4838](https://github.com/pingdotgg/t3code/pull/4838) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-4. 💪 Opened PR [#4402](https://github.com/pingdotgg/t3code/pull/4402) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+1. ❌ Closed PR [#4049](https://github.com/pingdotgg/t3code/pull/4049) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+2. 🎉 Merged PR [#13](https://github.com/SunkenInTime/t3-themes/pull/13) in [SunkenInTime/t3-themes](https://github.com/SunkenInTime/t3-themes)
+3. 💪 Opened PR [#13](https://github.com/SunkenInTime/t3-themes/pull/13) in [SunkenInTime/t3-themes](https://github.com/SunkenInTime/t3-themes)
+4. 💪 Opened PR [#4838](https://github.com/pingdotgg/t3code/pull/4838) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
 
 <!--END_SECTION:activity-->
 </details>
