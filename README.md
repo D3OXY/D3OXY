@@ -69,10 +69,10 @@ Working on it!
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#4049](https://github.com/pingdotgg/t3code/pull/4049) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-2. 🎉 Merged PR [#13](https://github.com/SunkenInTime/t3-themes/pull/13) in [SunkenInTime/t3-themes](https://github.com/SunkenInTime/t3-themes)
-3. 💪 Opened PR [#13](https://github.com/SunkenInTime/t3-themes/pull/13) in [SunkenInTime/t3-themes](https://github.com/SunkenInTime/t3-themes)
-4. 💪 Opened PR [#4838](https://github.com/pingdotgg/t3code/pull/4838) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+1. 🚀 Published release [Azyst CLI 0.0.1](https://github.com/Azyst-hq/cli/releases/tag/v0.0.1) in [Azyst-hq/cli](https://github.com/Azyst-hq/cli)
+2. ❌ Closed PR [#4049](https://github.com/pingdotgg/t3code/pull/4049) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+3. 🎉 Merged PR [#13](https://github.com/SunkenInTime/t3-themes/pull/13) in [SunkenInTime/t3-themes](https://github.com/SunkenInTime/t3-themes)
+4. 💪 Opened PR [#13](https://github.com/SunkenInTime/t3-themes/pull/13) in [SunkenInTime/t3-themes](https://github.com/SunkenInTime/t3-themes)
 
 <!--END_SECTION:activity-->
 </details>
