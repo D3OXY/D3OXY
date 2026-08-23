@@ -69,10 +69,10 @@ Working on it!
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#25](https://github.com/D3OXY/rawsens/pull/25) in [D3OXY/rawsens](https://github.com/D3OXY/rawsens)
-2. 💪 Opened PR [#24](https://github.com/D3OXY/rawsens/pull/24) in [D3OXY/rawsens](https://github.com/D3OXY/rawsens)
-3. 💪 Opened PR [#23](https://github.com/D3OXY/rawsens/pull/23) in [D3OXY/rawsens](https://github.com/D3OXY/rawsens)
-4. 💪 Opened PR [#22](https://github.com/D3OXY/rawsens/pull/22) in [D3OXY/rawsens](https://github.com/D3OXY/rawsens)
+1. 💪 Opened PR [#27](https://github.com/D3OXY/rawsens/pull/27) in [D3OXY/rawsens](https://github.com/D3OXY/rawsens)
+2. 💪 Opened PR [#26](https://github.com/D3OXY/rawsens/pull/26) in [D3OXY/rawsens](https://github.com/D3OXY/rawsens)
+3. 💪 Opened PR [#25](https://github.com/D3OXY/rawsens/pull/25) in [D3OXY/rawsens](https://github.com/D3OXY/rawsens)
+4. 💪 Opened PR [#24](https://github.com/D3OXY/rawsens/pull/24) in [D3OXY/rawsens](https://github.com/D3OXY/rawsens)
 
 <!--END_SECTION:activity-->
 </details>
