@@ -69,10 +69,10 @@ Working on it!
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [Azyst CLI 0.0.1](https://github.com/Azyst-hq/cli/releases/tag/v0.0.1) in [Azyst-hq/cli](https://github.com/Azyst-hq/cli)
-2. ❌ Closed PR [#4049](https://github.com/pingdotgg/t3code/pull/4049) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-3. 🎉 Merged PR [#13](https://github.com/SunkenInTime/t3-themes/pull/13) in [SunkenInTime/t3-themes](https://github.com/SunkenInTime/t3-themes)
-4. 💪 Opened PR [#13](https://github.com/SunkenInTime/t3-themes/pull/13) in [SunkenInTime/t3-themes](https://github.com/SunkenInTime/t3-themes)
+1. 🗣 Commented on [#4](https://github.com/D3OXY/rawsens/pull/4#issuecomment-5385681483) in [D3OXY/rawsens](https://github.com/D3OXY/rawsens)
+2. ❌ Closed PR [#4](https://github.com/D3OXY/rawsens/pull/4) in [D3OXY/rawsens](https://github.com/D3OXY/rawsens)
+3. ❌ Closed PR [#3](https://github.com/D3OXY/rawsens/pull/3) in [D3OXY/rawsens](https://github.com/D3OXY/rawsens)
+4. 🗣 Commented on [#3](https://github.com/D3OXY/rawsens/pull/3#issuecomment-5385681319) in [D3OXY/rawsens](https://github.com/D3OXY/rawsens)
 
 <!--END_SECTION:activity-->
 </details>
