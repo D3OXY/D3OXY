@@ -69,10 +69,10 @@ Working on it!
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#4](https://github.com/D3OXY/rawsens/pull/4#issuecomment-5385681483) in [D3OXY/rawsens](https://github.com/D3OXY/rawsens)
-2. ❌ Closed PR [#4](https://github.com/D3OXY/rawsens/pull/4) in [D3OXY/rawsens](https://github.com/D3OXY/rawsens)
-3. ❌ Closed PR [#3](https://github.com/D3OXY/rawsens/pull/3) in [D3OXY/rawsens](https://github.com/D3OXY/rawsens)
-4. 🗣 Commented on [#3](https://github.com/D3OXY/rawsens/pull/3#issuecomment-5385681319) in [D3OXY/rawsens](https://github.com/D3OXY/rawsens)
+1. ℹ️ Labeled issue [#16](https://github.com/D3OXY/rawsens/issues/16) in [D3OXY/rawsens](https://github.com/D3OXY/rawsens)
+2. ℹ️ Labeled issue [#16](https://github.com/D3OXY/rawsens/issues/16) in [D3OXY/rawsens](https://github.com/D3OXY/rawsens)
+3. ❗ Opened issue [#16](https://github.com/D3OXY/rawsens/issues/16) in [D3OXY/rawsens](https://github.com/D3OXY/rawsens)
+4. ℹ️ Labeled issue [#15](https://github.com/D3OXY/rawsens/issues/15) in [D3OXY/rawsens](https://github.com/D3OXY/rawsens)
 
 <!--END_SECTION:activity-->
 </details>
