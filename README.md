@@ -69,10 +69,10 @@ Working on it!
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#8336](https://github.com/pingdotgg/t3code/pull/8336) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-2. 💪 Opened PR [#8335](https://github.com/pingdotgg/t3code/pull/8335) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-3. 💪 Opened PR [#27](https://github.com/D3OXY/rawsens/pull/27) in [D3OXY/rawsens](https://github.com/D3OXY/rawsens)
-4. 💪 Opened PR [#26](https://github.com/D3OXY/rawsens/pull/26) in [D3OXY/rawsens](https://github.com/D3OXY/rawsens)
+1. 🗣 Commented on [#8342](https://github.com/pingdotgg/t3code/pull/8342#issuecomment-5434715428) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+2. 🗣 Commented on [#8342](https://github.com/pingdotgg/t3code/pull/8342#issuecomment-5433123101) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+3. 💪 Opened PR [#8342](https://github.com/pingdotgg/t3code/pull/8342) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+4. 💪 Opened PR [#8336](https://github.com/pingdotgg/t3code/pull/8336) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
 
 <!--END_SECTION:activity-->
 </details>
