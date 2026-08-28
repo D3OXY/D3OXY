@@ -69,10 +69,10 @@ Working on it!
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#8342](https://github.com/pingdotgg/t3code/pull/8342#issuecomment-5434715428) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-2. 🗣 Commented on [#8342](https://github.com/pingdotgg/t3code/pull/8342#issuecomment-5433123101) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-3. 💪 Opened PR [#8342](https://github.com/pingdotgg/t3code/pull/8342) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-4. 💪 Opened PR [#8336](https://github.com/pingdotgg/t3code/pull/8336) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+1. 🗣 Commented on [#4031](https://github.com/pingdotgg/t3code/pull/4031#issuecomment-5452152977) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+2. 🗣 Commented on [#7671](https://github.com/pingdotgg/t3code/issues/7671#issuecomment-5451822050) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+3. ❌ Closed PR [#4031](https://github.com/pingdotgg/t3code/pull/4031) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+4. 💪 Opened PR [#8528](https://github.com/pingdotgg/t3code/pull/8528) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
 
 <!--END_SECTION:activity-->
 </details>
