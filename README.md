@@ -69,10 +69,10 @@ Working on it!
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#4031](https://github.com/pingdotgg/t3code/pull/4031#issuecomment-5452152977) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-2. 🗣 Commented on [#7671](https://github.com/pingdotgg/t3code/issues/7671#issuecomment-5451822050) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-3. ❌ Closed PR [#4031](https://github.com/pingdotgg/t3code/pull/4031) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-4. 💪 Opened PR [#8528](https://github.com/pingdotgg/t3code/pull/8528) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+1. 🚀 Published release [Azyst CLI 0.0.2](https://github.com/Azyst-hq/cli/releases/tag/v0.0.2) in [Azyst-hq/cli](https://github.com/Azyst-hq/cli)
+2. 🗣 Commented on [#4031](https://github.com/pingdotgg/t3code/pull/4031#issuecomment-5452152977) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+3. 🗣 Commented on [#7671](https://github.com/pingdotgg/t3code/issues/7671#issuecomment-5451822050) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+4. ❌ Closed PR [#4031](https://github.com/pingdotgg/t3code/pull/4031) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
 
 <!--END_SECTION:activity-->
 </details>
