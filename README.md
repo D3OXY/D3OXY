@@ -69,10 +69,10 @@ Working on it!
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#23](https://github.com/D3OXY/rawsens/pull/23) in [D3OXY/rawsens](https://github.com/D3OXY/rawsens)
-2. 🔒 Closed issue [#11](https://github.com/D3OXY/rawsens/issues/11) in [D3OXY/rawsens](https://github.com/D3OXY/rawsens)
-3. 🔒 Closed issue [#10](https://github.com/D3OXY/rawsens/issues/10) in [D3OXY/rawsens](https://github.com/D3OXY/rawsens)
-4. 🎉 Merged PR [#22](https://github.com/D3OXY/rawsens/pull/22) in [D3OXY/rawsens](https://github.com/D3OXY/rawsens)
+1. ❌ Closed PR [#8528](https://github.com/pingdotgg/t3code/pull/8528) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+2. ❌ Closed PR [#8342](https://github.com/pingdotgg/t3code/pull/8342) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+3. 🎉 Merged PR [#23](https://github.com/D3OXY/rawsens/pull/23) in [D3OXY/rawsens](https://github.com/D3OXY/rawsens)
+4. 🔒 Closed issue [#11](https://github.com/D3OXY/rawsens/issues/11) in [D3OXY/rawsens](https://github.com/D3OXY/rawsens)
 
 <!--END_SECTION:activity-->
 </details>
