@@ -69,10 +69,10 @@ Working on it!
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#8528](https://github.com/pingdotgg/t3code/pull/8528) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-2. ❌ Closed PR [#8342](https://github.com/pingdotgg/t3code/pull/8342) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-3. 🎉 Merged PR [#23](https://github.com/D3OXY/rawsens/pull/23) in [D3OXY/rawsens](https://github.com/D3OXY/rawsens)
-4. 🔒 Closed issue [#11](https://github.com/D3OXY/rawsens/issues/11) in [D3OXY/rawsens](https://github.com/D3OXY/rawsens)
+1. 🗣 Commented on [#88](https://github.com/jurplel/InstantSpaceSwitcher/pull/88#issuecomment-5644946567) in [jurplel/InstantSpaceSwitcher](https://github.com/jurplel/InstantSpaceSwitcher)
+2. ❌ Closed PR [#8528](https://github.com/pingdotgg/t3code/pull/8528) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+3. ❌ Closed PR [#8342](https://github.com/pingdotgg/t3code/pull/8342) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+4. 🎉 Merged PR [#23](https://github.com/D3OXY/rawsens/pull/23) in [D3OXY/rawsens](https://github.com/D3OXY/rawsens)
 
 <!--END_SECTION:activity-->
 </details>
