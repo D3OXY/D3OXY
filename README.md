@@ -69,10 +69,10 @@ Working on it!
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#88](https://github.com/jurplel/InstantSpaceSwitcher/pull/88#issuecomment-5725386781) in [jurplel/InstantSpaceSwitcher](https://github.com/jurplel/InstantSpaceSwitcher)
-2. 🗣 Commented on [#88](https://github.com/jurplel/InstantSpaceSwitcher/pull/88#issuecomment-5644946567) in [jurplel/InstantSpaceSwitcher](https://github.com/jurplel/InstantSpaceSwitcher)
-3. ❌ Closed PR [#8528](https://github.com/pingdotgg/t3code/pull/8528) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
-4. ❌ Closed PR [#8342](https://github.com/pingdotgg/t3code/pull/8342) in [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+1. 🗣 Commented on [#136](https://github.com/kenryu42/cc-safety-net/pull/136#issuecomment-5830480005) in [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net)
+2. 💪 Opened PR [#136](https://github.com/kenryu42/cc-safety-net/pull/136) in [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net)
+3. ❗ Opened issue [#135](https://github.com/kenryu42/cc-safety-net/issues/135) in [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net)
+4. 🗣 Commented on [#88](https://github.com/jurplel/InstantSpaceSwitcher/pull/88#issuecomment-5725386781) in [jurplel/InstantSpaceSwitcher](https://github.com/jurplel/InstantSpaceSwitcher)
 
 <!--END_SECTION:activity-->
 </details>
