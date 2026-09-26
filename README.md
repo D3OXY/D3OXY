@@ -69,10 +69,10 @@ Working on it!
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#136](https://github.com/kenryu42/cc-safety-net/pull/136) in [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net)
-2. 🗣 Commented on [#136](https://github.com/kenryu42/cc-safety-net/pull/136#issuecomment-5830480005) in [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net)
-3. 💪 Opened PR [#136](https://github.com/kenryu42/cc-safety-net/pull/136) in [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net)
-4. ❗ Opened issue [#135](https://github.com/kenryu42/cc-safety-net/issues/135) in [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net)
+1. 🚀 Published release [Azyst CLI 0.0.3](https://github.com/Azyst-hq/cli/releases/tag/v0.0.3) in [Azyst-hq/cli](https://github.com/Azyst-hq/cli)
+2. 🎉 Merged PR [#136](https://github.com/kenryu42/cc-safety-net/pull/136) in [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net)
+3. 🗣 Commented on [#136](https://github.com/kenryu42/cc-safety-net/pull/136#issuecomment-5830480005) in [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net)
+4. 💪 Opened PR [#136](https://github.com/kenryu42/cc-safety-net/pull/136) in [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net)
 
 <!--END_SECTION:activity-->
 </details>
