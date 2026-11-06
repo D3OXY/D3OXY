@@ -69,10 +69,10 @@ Working on it!
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1447](https://github.com/robinebers/openusage/issues/1447#issuecomment-6440819572) in [robinebers/openusage](https://github.com/robinebers/openusage)
-2. 🗣 Commented on [#189](https://github.com/samuelmaddock/electron-browser-shell/issues/189#issuecomment-6440275563) in [samuelmaddock/electron-browser-shell](https://github.com/samuelmaddock/electron-browser-shell)
-3. 💪 Opened PR [#190](https://github.com/samuelmaddock/electron-browser-shell/pull/190) in [samuelmaddock/electron-browser-shell](https://github.com/samuelmaddock/electron-browser-shell)
-4. ❗ Opened issue [#189](https://github.com/samuelmaddock/electron-browser-shell/issues/189) in [samuelmaddock/electron-browser-shell](https://github.com/samuelmaddock/electron-browser-shell)
+1. 🚀 Published release [Azyst CLI 0.0.4](https://github.com/Azyst-hq/cli/releases/tag/v0.0.4) in [Azyst-hq/cli](https://github.com/Azyst-hq/cli)
+2. 🗣 Commented on [#1447](https://github.com/robinebers/openusage/issues/1447#issuecomment-6440819572) in [robinebers/openusage](https://github.com/robinebers/openusage)
+3. 🗣 Commented on [#189](https://github.com/samuelmaddock/electron-browser-shell/issues/189#issuecomment-6440275563) in [samuelmaddock/electron-browser-shell](https://github.com/samuelmaddock/electron-browser-shell)
+4. 💪 Opened PR [#190](https://github.com/samuelmaddock/electron-browser-shell/pull/190) in [samuelmaddock/electron-browser-shell](https://github.com/samuelmaddock/electron-browser-shell)
 
 <!--END_SECTION:activity-->
 </details>
