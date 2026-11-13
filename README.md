@@ -69,10 +69,10 @@ Working on it!
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1056](https://github.com/driceroland/Search/pull/1056) in [driceroland/Search](https://github.com/driceroland/Search)
-2. 💪 Opened PR [#1045](https://github.com/driceroland/Search/pull/1045) in [driceroland/Search](https://github.com/driceroland/Search)
-3. ❗ Opened issue [#1043](https://github.com/driceroland/Search/issues/1043) in [driceroland/Search](https://github.com/driceroland/Search)
-4. 💪 Opened PR [#1044](https://github.com/driceroland/Search/pull/1044) in [driceroland/Search](https://github.com/driceroland/Search)
+1. 🎉 Merged PR [#171](https://github.com/D3OXY/unmerged/pull/171) in [D3OXY/unmerged](https://github.com/D3OXY/unmerged)
+2. 🔒 Closed issue [#170](https://github.com/D3OXY/unmerged/issues/170) in [D3OXY/unmerged](https://github.com/D3OXY/unmerged)
+3. 💪 Opened PR [#171](https://github.com/D3OXY/unmerged/pull/171) in [D3OXY/unmerged](https://github.com/D3OXY/unmerged)
+4. ❗ Opened issue [#170](https://github.com/D3OXY/unmerged/issues/170) in [D3OXY/unmerged](https://github.com/D3OXY/unmerged)
 
 <!--END_SECTION:activity-->
 </details>
