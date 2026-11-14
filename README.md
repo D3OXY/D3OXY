@@ -69,10 +69,10 @@ Working on it!
 <summary>⚡ Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#171](https://github.com/D3OXY/unmerged/pull/171) in [D3OXY/unmerged](https://github.com/D3OXY/unmerged)
-2. 🔒 Closed issue [#170](https://github.com/D3OXY/unmerged/issues/170) in [D3OXY/unmerged](https://github.com/D3OXY/unmerged)
-3. 💪 Opened PR [#171](https://github.com/D3OXY/unmerged/pull/171) in [D3OXY/unmerged](https://github.com/D3OXY/unmerged)
-4. ❗ Opened issue [#170](https://github.com/D3OXY/unmerged/issues/170) in [D3OXY/unmerged](https://github.com/D3OXY/unmerged)
+1. 🎉 Merged PR [#172](https://github.com/D3OXY/unmerged/pull/172) in [D3OXY/unmerged](https://github.com/D3OXY/unmerged)
+2. 💪 Opened PR [#172](https://github.com/D3OXY/unmerged/pull/172) in [D3OXY/unmerged](https://github.com/D3OXY/unmerged)
+3. 🎉 Merged PR [#171](https://github.com/D3OXY/unmerged/pull/171) in [D3OXY/unmerged](https://github.com/D3OXY/unmerged)
+4. 🔒 Closed issue [#170](https://github.com/D3OXY/unmerged/issues/170) in [D3OXY/unmerged](https://github.com/D3OXY/unmerged)
 
 <!--END_SECTION:activity-->
 </details>
